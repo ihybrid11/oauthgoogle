@@ -1,0 +1,11 @@
+{
+  "name": "oauthgoogle",
+  "version": "1.0.0",
+  "description": "User authentication using OAuth Sign in using Google",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ihybrid11",
+  "license": "ISC"
+}
